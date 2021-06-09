@@ -12,3 +12,4 @@ CHILE STAKE PO - CARDANO OFFICIAL POOL Watching your stake - 24/7 International 
 - DISCORD > [CHIL] STAKEPO - CARDANO POOL > https://discord.gg/tc2QGFNK
 - YOUTUBE > https://www.youtube.com/channel/UCH_lYL9BJ5hLKwZkR90NSBA
 - YOUTUBE > INDIVIDUO DIGITAL > https://www.youtube.com/c/IndividuoDigital/videos
+- ODYSEE > https://odysee.com/@individuodigital:0
