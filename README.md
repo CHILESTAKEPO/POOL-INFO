@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://chilestakepo.cl/wp/wp-content/uploads/2021/04/cropped-cropped-moai-negroong.png" alt="Sublime's custom image"/>
+</p>
+
 # ℹ️ POOL-INFO
 CHILE STAKE PO - CARDANO OFFICIAL POOL Watching your stake - 24/7 International support
 
